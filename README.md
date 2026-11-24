@@ -21,7 +21,12 @@ The production code of these games is closed source; the projects below are my o
 - **[haxe-c64](https://github.com/varadig/haxe-c64)** — a Haxe compiler target for the Commodore 64, built for writing games: Haxe typed AST → C → llvm-mos → `.prg`.
 - **[Dynamic Dungeons](https://dynamicdungeons.com/)** — three-in-one desktop app for RPG game masters (Editor, Player, Manager) with video/picture timelines, particle effects and audio.
 - **[NatiWii](https://github.com/varadig/NatiWii)** — Adobe AIR native extension for the Nintendo Wiimote (C, wiiuse).
-- **GotoCore** — my lightweight application framework (notifications, logging, context), ported to [C#](https://github.com/varadig/GotoCoreCSharp), [TypeScript](https://github.com/varadig/GotoCoreTS), [Swift](https://github.com/varadig/GotoCoreSwift) and [ActionScript 3](https://github.com/varadig/GotoCoreAS3).
+- **[GotoCore for Unity](https://github.com/varadig/GotoCoreCSharp)** — my message-driven MVC framework, rebuilt as a Unity package: typed message bus, commands, observable models, controllers and views, with optional VContainer DI. The 2017 original also has [TypeScript](https://github.com/varadig/GotoCoreTS), [Swift](https://github.com/varadig/GotoCoreSwift) and [ActionScript 3](https://github.com/varadig/GotoCoreAS3) ports.
+
+### 🕹️ Games I made in my own time
+
+- **[Moonshard](https://github.com/varadig/blockbuster)** — fast-paced side-scrolling 2D platformer with bosses, missions and a global leaderboard (Haxe, HaxeFlixel, HTML5). [Play on itch.io](https://varadig.itch.io/moonshard)
+- **[Ämber](https://github.com/varadig/amber)** — C64-style amber-monitor puzzle platformer with synthesized MOD-like music (Haxe, HaxeFlixel, HTML5).
 
 ### 🧰 Tech
 
