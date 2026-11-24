@@ -35,6 +35,10 @@ The production code of these games is closed source; the projects below are my o
 **Platforms:** iOS · Android · macOS · PC · AR/VR
 **AI-assisted development:** Claude Code, GitHub Copilot, MCP integrations (Unity, Datadog), multi-agent orchestration — used daily in production
 
+### 🧩 Outside code
+
+Retro computing and gaming hardware: collecting, repairing and exhibiting vintage machines (Amiga, C64, Spectrum, Atari, Macintosh), old ThinkPads, and classic consoles and handhelds. Also CrossFit and drums.
+
 ### 📫 Contact
 
 Looking for **Senior Game Developer / Senior Unity Developer / C# engineering** roles, ideally fully remote.
