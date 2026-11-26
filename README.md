@@ -32,6 +32,7 @@ The production code of these games is closed source; the projects below are my o
 
 **Languages:** C# (primary) · TypeScript / JavaScript · Node.js · Haxe · Python
 **Game dev:** Unity · gameplay systems · UI architecture & frameworks · custom editors & tooling · audio · analytics · live ops
+**Engineering:** clean code · object-oriented design · MVC / MVVM · test automation · CI/CD · Git
 **Platforms:** iOS · Android · macOS · PC · AR/VR
 **AI-assisted development:** Claude Code, GitHub Copilot, MCP integrations (Unity, Datadog), multi-agent orchestration — used daily in production
 
